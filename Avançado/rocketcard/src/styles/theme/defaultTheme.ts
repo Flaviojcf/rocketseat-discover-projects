@@ -1,0 +1,10 @@
+export const defaultTheme = {
+  colors: {
+    bg: "#000000",
+    "bg-card": "#0E1218",
+    text: "#F1F1F1",
+    "img-profile": "#8257e5",
+    buttons: "#FFF",
+    "border-button": "#1A1A1A",
+  },
+} as const;
